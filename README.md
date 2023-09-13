@@ -5,26 +5,26 @@ SubProyecto1 Maestria en Ciencia de Datos
 
 ## Índice
 
-## Índice
-## Introducción
-	### Métodos Utilizados
-	### Tecnologías
-## Descarga y Configuración
-	### Requisitos Previos
-## Declaración del Problema
-	### Objetivo Comercial
-## Procesos y Análisis:
-	### Configuración e Instalación.
-	### Entendimiento de los Datos.
-	### Análisis de Datos.
-	### Manipulación y Limpieza de Datos.
-	### Preparación de Datos y Modelado.
-	### Construcción del Modelado
-	#### Ridge Regression
-	#### Lasso Regression
-	#### ElasticNet Regression
-	#### Las Variables Más Significativas Son:
-	### Conclusiones
+- [Índice](## Índice)
+- [Introducción](## Introducción)
+ -[Métodos Utilizados](### Métodos Utilizados)
+ -[Tecnologías](### Tecnologías)
+-[Descarga y Configuración]## (Descarga y Configuración)
+ -[Requisitos Previos](### Requisitos Previos)
+-[Declaración del Problema](## Declaración del Problema)
+ -[Objetivo Comercial](### Objetivo Comercial)
+-[Procesos y Análisis](## Procesos y Análisis:)
+ -[Configuración e Instalación](### Configuración e Instalación)
+ -[Entendimiento de los Datos](### Entendimiento de los Datos)
+ -[Análisis de Datos](### Análisis de Datos)
+ -[Manipulación y Limpieza de Datos](### Manipulación y Limpieza de Datos)
+ -[Preparación de Datos y Modelado](### Preparación de Datos y Modelado)
+ -[Construcción del Modelado](### Construcción del Modelado)
+ -[Ridge Regression](#### Ridge Regression)
+ -[Lasso Regression](#### Lasso Regression)
+ -[ElasticNet Regression](#### ElasticNet Regression)
+ -[Las Variables Más Significativas Son:](#### Las Variables Más Significativas Son:)
+ -[Conclusiones](### Conclusiones)
 
 ## Introducción
 
